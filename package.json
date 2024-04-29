@@ -1,7 +1,7 @@
 {
   "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "version": "0.0.1",
+  "description": "Chrome extension that allows users to seamlessly curate, rank, and compile their research findings from multiple tabs into organized webpages. A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
   "license": "MIT",
   "repository": {
     "type": "git",
